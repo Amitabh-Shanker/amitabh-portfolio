@@ -8,13 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
+            Hi Everyone, I am <span className="purple">Amitabh Shanker </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently pursuing a Computer Science and Engineering degree at BMS Institute of Technology. As a passionate CSE student, I am constantly fascinated by the ever-evolving world of technology and its transformative impact on our lives. 
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I specialize in full-stack development as a MERN stack developer, with a strong foundation in C++ programming. My technical expertise and problem-solving mindset empower me to build robust, scalable, and innovative solutions..
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -34,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Amitabh</footer>
         </blockquote>
       </Card.Body>
     </Card>
